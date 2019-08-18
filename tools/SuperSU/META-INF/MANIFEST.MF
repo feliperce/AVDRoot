@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Jo096EthS+3+nBqxffEDmY/Ymxo=
+
+Name: mips/su
+SHA1-Digest: uD+Yfp+KPR8kWou9arAr08VN2AY=
+
+Name: x64/supolicy
+SHA1-Digest: wjovFaMR3P73dzbcBW9ADHo97VE=
+
+Name: armv7/libsupol.so
+SHA1-Digest: 59+6KaIHma81Lq0TbpX5uv9gMkI=
+
+Name: common/install-recovery.sh
+SHA1-Digest: RQJ5Fy/ZVZiz35w8g2YffpQg4yM=
+
+Name: arm/su
+SHA1-Digest: eZArfOonHz5nurC4HHNh57Pr9cg=
+
+Name: mips/chattr.pie
+SHA1-Digest: ogeYjI3xhCLMro0LV/aapqg8XXY=
+
+Name: mips64/supolicy
+SHA1-Digest: hOgJgNkIxcc9RZq1ANOna9N+30s=
+
+Name: x64/su
+SHA1-Digest: DSKE42Bb87EEHt2rWpTfWNl8Q3I=
+
+Name: x86/chattr
+SHA1-Digest: +eQOboQk8DOLbKA7QigfBCqi4XY=
+
+Name: x86/chattr.pie
+SHA1-Digest: HUwAneUqyxA+cof4C5ICXi+BnnM=
+
+Name: armv7/supolicy
+SHA1-Digest: +P4doalHOMJPQ4+Qr7zpajhEelc=
+
+Name: mips64/su
+SHA1-Digest: Xllw2GCnvQI/N+cG+ATxVu74/bo=
+
+Name: x86/libsupol.so
+SHA1-Digest: JMmirJO5pdBoxevaNykx/6bMw9A=
+
+Name: arm64/libsupol.so
+SHA1-Digest: C0PNg9+00zMg363Q86vOMTuv6e8=
+
+Name: mips/supolicy
+SHA1-Digest: 8puRVazgKAYXRMiZp30QePrL3MA=
+
+Name: mips64/libsupol.so
+SHA1-Digest: lwfkwBPb88mZc4Wn1ChcqHJTcAY=
+
+Name: x64/libsupol.so
+SHA1-Digest: TeQ9mixTSIwnXs3FcwrfX4shksA=
+
+Name: arm64/su
+SHA1-Digest: GyrezE/uFO3AxAOCezwXaOaFaw4=
+
+Name: arm/chattr
+SHA1-Digest: QVQZgIatOrboo2Rxl2aXZ7uotT4=
+
+Name: mips/libsupol.so
+SHA1-Digest: 2A9B4+SLoyC2UqDVl0IO5kBr8To=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Zlnw51SMEoDdK0z/8SImYteq9yc=
+
+Name: arm64/supolicy
+SHA1-Digest: Cbl954P2yW2lnMd/anIRWmFEnKA=
+
+Name: armv7/su
+SHA1-Digest: 8p02c42iGnzvBkMmRi2dnlJ7oSE=
+
+Name: x86/supolicy
+SHA1-Digest: uMnpLsr58y7CU7ThPyajAinfFJw=
+
+Name: x86/su
+SHA1-Digest: eq9671m8c4WNOieMmFk4VZWa6Vw=
+
+Name: arm/chattr.pie
+SHA1-Digest: qoEQYzse93l3q+ZogsUhBIhPVbw=
+
+Name: arm/supolicy
+SHA1-Digest: z2HZ3bC0Wzoen3MYnAfCHgYiwrQ=
+
+Name: common/99SuperSUDaemon
+SHA1-Digest: 3AYSllvBRJ0eFpxgJghu8XgSuPQ=
+
+Name: common/Superuser.apk
+SHA1-Digest: IDYlRGDCoVWEZn6jtWJd0Mf+DlU=
+
+Name: arm/libsupol.so
+SHA1-Digest: Va8jCqsozSj6MVTh2MeZ3C1zOls=
+
+Name: armv7/chattr.pie
+SHA1-Digest: qoEQYzse93l3q+ZogsUhBIhPVbw=
+
